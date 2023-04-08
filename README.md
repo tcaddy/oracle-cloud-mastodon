@@ -1,4 +1,4 @@
-# oracle-cloud
+# oracle-cloud-mastodon
 Terraform managed infrastructure for Oracle Cloud Always Free tier for
 self hosting Mastodon.  Runs Mastodon services in containers, using an Ubuntu
 host to run Docker.
